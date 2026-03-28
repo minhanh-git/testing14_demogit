@@ -69,5 +69,6 @@ public class Buoi_3 {
         int so6 = Integer.parseInt(str6);
 
         // code mới test git
+
     }
 }
